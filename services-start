@@ -1,0 +1,2 @@
+#!/bin/sh
+cru a merlinwatchdog "* * * * * flock /tmp/merlinwatchdog.lck /jffs/scripts/merlinwatchdog.sh"
