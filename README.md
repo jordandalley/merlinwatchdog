@@ -8,5 +8,5 @@ The script checks pings against the default gateway received from your ISP. If t
 # Installation
 - In the "Administration" -> "System" menu, enable SSH and the "Enable JFFS custom scripts and configs" option.
 - Upload the "services-start" and "merlinwatchdog.sh" to /jffs/scripts
-- In the SSH terminal, run: chmod a+x /jffs/scripts/merlinwatchdog.sh /jffs/scripts/services-start; /jffs/scripts/services-start
+- In the SSH terminal, run: `chmod a+x /jffs/scripts/merlinwatchdog.sh /jffs/scripts/services-start; /jffs/scripts/services-start`
 - You're done!
