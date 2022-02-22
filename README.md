@@ -8,6 +8,7 @@ If a ping times out, it attempts to ping the default gateway 5 more times. If no
 # Installation
 - Login to the router configuration page
 - In the `Administration --> System` menu, enable SSH and the `Enable JFFS custom scripts and configs` option.
+
 ![image](https://user-images.githubusercontent.com/7189075/155067866-9278ed03-c00e-4baa-95d1-d5234f554be5.png)
 
 ![image](https://user-images.githubusercontent.com/7189075/155067935-f95beecc-0c3a-47e8-9ec6-f1758f040117.png)
